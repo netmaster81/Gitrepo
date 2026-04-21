@@ -294,7 +294,7 @@ git pull --all
 git status
 gitgraph
 
-#git pull actually is doing two things
+#git pull actually is doing two things git fetch + git merge
 #To just get remote content
 git fetch
 #can be explicit
