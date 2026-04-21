@@ -316,6 +316,8 @@ gitgraph
 git pull
 #make a change
 code testfile.txt
+#Use -am → for quick commits of existing files
+#Use git add → when you have new files
 git commit -am "Updated testfile.txt"
 git status
 gitgraph
